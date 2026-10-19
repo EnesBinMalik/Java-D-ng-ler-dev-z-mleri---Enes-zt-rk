@@ -1,0 +1,7 @@
+{
+  "name": "Java Döngüler & Ödev Çözümleri - Enes Öztürk",
+  "description": "Java ile girilen sayıya kadar çift sayıları bulma ve 3 ile 4'e tam bölünen sayıların ortalamasını hesaplayan interaktif simülatör ve kod aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
